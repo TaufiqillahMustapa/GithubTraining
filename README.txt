@@ -1,1 +1,2 @@
-Welcome to Taufiq repository!
+Welcome to my GithubTraining repository!
+
